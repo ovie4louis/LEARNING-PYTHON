@@ -1,0 +1,29 @@
+.green{
+    background-color: green;
+    /* border: 2px solid rgb(35, 177, 66); */
+     /* color: white; */
+    height: 20px; 
+    width: 20px;
+}
+.white{
+    background-color: white;
+    /* border: 2px solid rgb(35, 177, 66); */
+    /* color: white; */
+    height: 20px;
+    width: 20px;
+    /* border: white 2px solid; */
+    
+}
+.green2{
+    background-color: green;
+    /* border: 2px solid rgb(35, 177, 66); */
+    height: 20px;
+    width: 20px;
+    /* border: green 2px solid; */
+}
+body{
+    display: flex;
+    /* border: 1px solid rgb(83, 92, 85); */
+    background-color: rgb(13, 40, 56);
+    float: right;
+}
