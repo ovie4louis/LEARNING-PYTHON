@@ -102,4 +102,3 @@ band = {
 }
 print(band)
 print(band["member1"]["name"])
-print(band["member1"]["vocals"])
